@@ -1,0 +1,9 @@
+## Example Output
+
+Rocket Equation Calculator
+--------------------------
+Enter initial mass: 500000
+Enter final mass: 100000
+Enter specific impulse: 350
+
+Delta-v: 5635.8 m/s
