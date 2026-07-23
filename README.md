@@ -22,6 +22,15 @@ Where:
 - m0 = Initial mass (kg)
 - mf = Final mass (kg)
 
+## Features
+
+- Calculates delta-v using the Tsiolkovsky Rocket Equation
+- Calculates final mass
+- Calculates initial mass
+- Calculates specific impulse
+- Simple command-line interface
+- Uses real rocket science equations
+
 ## Requirements
 
 - Python 3.x
