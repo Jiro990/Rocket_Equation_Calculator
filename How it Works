@@ -1,0 +1,12 @@
+## How It Works
+
+This calculator uses the Tsiolkovsky Rocket Equation:
+
+Δv = Isp × g₀ × ln(m₀/mf)
+
+Where:
+- Δv = Change in velocity
+- Isp = Specific impulse
+- g₀ = Standard gravity (9.81 m/s²)
+- m₀ = Initial mass
+- mf = Final mass
